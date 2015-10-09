@@ -1,2 +1,2 @@
 # idea-preferences
-Upstream to syn IJ preferences across installs. 
+Upstream to sync IJ preferences across installs. 
