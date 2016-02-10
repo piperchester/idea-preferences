@@ -5,6 +5,11 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
