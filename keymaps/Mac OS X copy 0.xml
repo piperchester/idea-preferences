@@ -29,6 +29,10 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="meta p" />
@@ -58,6 +62,7 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
