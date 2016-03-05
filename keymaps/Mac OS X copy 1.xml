@@ -1,0 +1,24 @@
+<keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="ActivateMessagesToolWindow" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+</keymap>
