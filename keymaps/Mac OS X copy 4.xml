@@ -8,6 +8,7 @@
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -21,6 +22,11 @@
   <action id="EditorSelectWord" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta add" />
