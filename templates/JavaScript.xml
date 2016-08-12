@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cc" value="console.dir(&quot;$message$&quot;);" description="console dir" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
